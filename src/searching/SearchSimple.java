@@ -25,7 +25,7 @@ public class SearchSimple {
 	      else if (result < 0)
 	         left = midpoint + 1;
 	      else
-	         right = midpoint-1;
+	         right = midpoint-1;///bo;wibeeo
 	   }
 	   return -1;	
 		   
